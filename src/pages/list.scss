@@ -1,0 +1,12 @@
+.page-list{
+    margin: auto;
+    .list-container{
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: space-around;
+        .card-outter{
+            display: inline-block;
+            padding: 0 5px;
+        }
+    }
+}
