@@ -1,0 +1,14 @@
+.navigation-header{
+    position: fixed;
+    height: 60px;
+    width: 100vw;
+    background-color: #2196f3;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
